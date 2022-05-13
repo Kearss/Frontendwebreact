@@ -4,3 +4,5 @@ This is a frontend project that uses my backend project that store data into mon
 This was for my school fullstack school project and this was a learning experience for me on how to actually make applications with the backend in mind.
 3. How start this 
   well you need to install react to visual code and start with npm start but i will add a link later on netlify or heroku.
+4. Problems with the application
+  it has some weird refreshing issues when trying to move to the next page and also there are infomation updating problems that are still in progress.
